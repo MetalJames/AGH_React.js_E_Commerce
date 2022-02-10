@@ -1,0 +1,1 @@
+Custom created SVG logo.
